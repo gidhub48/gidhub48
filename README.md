@@ -1,8 +1,7 @@
-- 👋 Hi, I’m opal (realname:Tuchchapon Thiangtrong)
+- 👋 Hi, I’m Opal (realname:Tuchchapon Thiangtrong)
 - 👀 I’m interested in Web developer and Game developer
-- 🌱 I’m currently learning REACT.JS MYSQL EXPRESS.JS LUA(ROBLOX) 
+- 🌱 I’m currently learning REACT.JS MYSQL EXPRESS.JS
 <!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me (NO)
 
 <!---
 gidhub48/gidhub48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
